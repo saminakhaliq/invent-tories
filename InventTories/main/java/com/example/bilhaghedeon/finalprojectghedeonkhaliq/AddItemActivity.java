@@ -26,9 +26,6 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Scanner;
 
-/**
- * Implemented by Bilha Ghedeon and Samina Khaliq
- */
 public class AddItemActivity extends Activity {
 
     // status code to send to the camera scanner activity
@@ -90,8 +87,6 @@ public class AddItemActivity extends Activity {
     }
 
 
-     // Implemented by Samina Khaliq
-
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
@@ -122,7 +117,6 @@ public class AddItemActivity extends Activity {
 
     }
 
-    // Implemented by Samina Khaliq
 
     private class InfoTask extends AsyncTask<String, Void, String> {
 
@@ -158,10 +152,6 @@ public class AddItemActivity extends Activity {
     }
 
     // parses json string, same json structure for both qr code and barcode
-
-    /**
-     * Implemented by Bilha Ghedeon
-     */
     private void parseJson(String itemJson) {
 
         try {
@@ -187,8 +177,6 @@ public class AddItemActivity extends Activity {
 
 
 
-
-     // Implemented by Bilha Ghedeon
     // goes to url and retrieves the json string
     private String loadInfo(String jsonURL) {
 
@@ -228,9 +216,8 @@ public class AddItemActivity extends Activity {
         }
     }
 
-    //Implemented by Samina Khaliq
+    
     // will validate user input, make new item, and insert inside the database
-
     public void addItem() {
 
         // create an item object
@@ -335,8 +322,6 @@ public class AddItemActivity extends Activity {
 
 
     }
-
-    //Implemented by Samina Khaliq
 
     // add item to database
     private class InsertTask extends AsyncTask<Item, Void, Long> {
