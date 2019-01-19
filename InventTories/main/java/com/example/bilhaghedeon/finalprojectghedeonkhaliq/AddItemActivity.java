@@ -44,8 +44,6 @@ public class AddItemActivity extends Activity {
     EditText edtPrice;
     EditText edtQuantity;
 
-
-    //Implemented by Bilha Ghedeon
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
