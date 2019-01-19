@@ -9,9 +9,6 @@ import com.example.bilhaghedeon.finalprojectghedeonkhaliq.model.Item;
 
 import java.util.List;
 
-/**
- * Created by bilhaghedeon on 2018-12-14.
- */
 @Dao
 public interface ItemDao {
 
