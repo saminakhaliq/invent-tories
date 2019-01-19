@@ -15,9 +15,6 @@ import java.util.List;
 *  This adapter will load items into recycler view and display by item name
 *
 * */
-/**
- * Implemented by Samina Khaliq
- */
 
 
 public class CheckInventoryItemAdapter extends RecyclerView.Adapter<CheckInventoryItemAdapter.MyViewHolder> {
