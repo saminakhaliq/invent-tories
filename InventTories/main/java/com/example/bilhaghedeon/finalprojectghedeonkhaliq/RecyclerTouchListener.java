@@ -11,9 +11,6 @@ import android.view.View;
 * Boilerplate code to allow for on touch listeners for recycler view
 * https://stackoverflow.com/questions/39637743/recyclerview-touch-events
 * */
-/**
- * Implemented by Samina Khaliq
- */
 
 
 public class RecyclerTouchListener implements RecyclerView.OnItemTouchListener {
