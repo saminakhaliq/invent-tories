@@ -6,11 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-/**
- * Implemented by Samina Khaliq
- */
-
-
 public class MainActivity extends Activity {
 
 
