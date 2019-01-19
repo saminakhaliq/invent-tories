@@ -14,9 +14,6 @@ import com.example.bilhaghedeon.finalprojectghedeonkhaliq.dB.ItemDao;
 import com.example.bilhaghedeon.finalprojectghedeonkhaliq.dB.ItemsRoomDatabase;
 import com.example.bilhaghedeon.finalprojectghedeonkhaliq.model.Item;
 
-/**
- * Implemented by Bilha Ghedeon
- */
 
 public class UpdateItemActivity extends Activity {
 
