@@ -13,11 +13,6 @@ import com.example.bilhaghedeon.finalprojectghedeonkhaliq.model.Item;
 
 import java.util.List;
 
-/**
- * Implemented by Samina Khaliq
- */
-
-
 public class DailyReportActivity extends Activity {
 
 
