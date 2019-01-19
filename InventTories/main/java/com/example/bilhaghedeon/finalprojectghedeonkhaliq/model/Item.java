@@ -4,9 +4,6 @@ import android.arch.persistence.room.ColumnInfo;
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 
-/**
- * Implemented by Bilha Ghedeon
- */
 @Entity (tableName = "items_table")
 public class Item {
 
