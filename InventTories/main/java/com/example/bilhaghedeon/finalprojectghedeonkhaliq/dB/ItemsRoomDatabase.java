@@ -7,9 +7,6 @@ import android.content.Context;
 
 import com.example.bilhaghedeon.finalprojectghedeonkhaliq.model.Item;
 
-/**
- * Implemented by Samina Khaliq
- */
 @Database(entities = {Item.class}, version = 1,exportSchema = false)
 public abstract class ItemsRoomDatabase extends RoomDatabase {
     private static ItemsRoomDatabase INSTANCE;
