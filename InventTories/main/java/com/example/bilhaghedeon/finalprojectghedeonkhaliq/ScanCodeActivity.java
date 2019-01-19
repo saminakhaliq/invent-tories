@@ -13,7 +13,6 @@ import me.dm7.barcodescanner.zxing.ZXingScannerView;
 * Barcode / Qr code scanner
 * Using the ZXing Android Library
 *
-*Implemented by Samina Khaliq
 * */
 
 public class ScanCodeActivity extends Activity implements ZXingScannerView.ResultHandler {
