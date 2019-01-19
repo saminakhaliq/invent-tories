@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">INVENT TORIES</string>
+    <string name="string_scan">Click barcode icon to scan a code \n or enter manually below </string>
+    <string name="String_item_name">ENTER AN ITEM</string>
+    <string name="string_item_description">ENTER ITEM DESCRIPTION</string>
+    <string name="string_enter_barcode">ENTER BARCODE</string>
+    <string name="string_quantity">ENTER QUANTITY</string>
+    <string name="string_enter_price">ENTER PRICE</string>
+    <string name="string_your_inventory">Your Inventory</string>
+    <string name="string_update_your_item">Update your item</string>
+    <string name="string_update_item">Update Item</string>
+    <string name="string_delete_item">Delete Item</string>
+    <string name="string_organize_your_life">ORGANIZE YOUR LIFE</string>
+    <string name="string_btn_add_entry">ADD ENTRY</string>
+    <string name="string_btn_check_inventory">CHECK INVENTORY</string>
+    <string name="string_btn_daily_report">DAILY REPORT</string>
+</resources>
