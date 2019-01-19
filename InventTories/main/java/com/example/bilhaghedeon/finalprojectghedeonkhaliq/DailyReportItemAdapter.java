@@ -16,9 +16,6 @@ import java.util.List;
 *  This adapter will load items into recycler view and display by item name and include item
 *  quantity
 * */
-/**
- * Implemented by Samina Khaliq
- */
 
 
 public class DailyReportItemAdapter extends RecyclerView.Adapter<DailyReportItemAdapter.MyViewHolder> {
