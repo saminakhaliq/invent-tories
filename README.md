@@ -14,7 +14,7 @@ Overview :
 - Information on item is given
 - User can add additional information about item
 - User can then add the item to their inventory if they choose
-- User can delete /update items from their inventory
+- User can delete/update items from their inventory
 - Daily Report shows item and item quantity 
 
 QR Code Functionality - using json files :
