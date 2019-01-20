@@ -3,9 +3,9 @@ Simple Android Studio inventory app implementing ZXing barcode/QR code scanner a
 
 Developed with partner, Bilha Ghedeon, for Mobile Device Application Principles course. 
 
-Video showing app functionality: 
+Video showing app functionality: https://youtu.be/w8R8lJ0NwZw
 
-Project uses ZXing Library and Barcode LookUp RESTful API. Further details of implementation in pdf.
+Project uses ZXing Library and Barcode LookUp RESTful API. Further details on these topics in the implementation pdf.
 
 How app works...
 
@@ -18,7 +18,7 @@ Overview :
 - Daily Report shows item and item quantity 
 
 QR Code Functionality - using json files :
-1. Created json files (example json files shown) for individual products
+1. Created json files (example json files provided) for individual products
 2. Uploaded them to our website
 3. Made QR codes using QR Code Generator: http://goqr.me/
 4. When code is scanned, app recognizes this is a QR code and fetches the json from the website. Parses information into Item object and inserts object into user’s database.
