@@ -24,5 +24,5 @@ QR Code Functionality - using json files :
 4. When code is scanned, app recognizes this is a QR code and fetches the json from the website. Parses information into Item object and inserts object into user’s database.
 
 Barcode Functionality – using the Barcode Lookup RESTful API Service :
-1. When code is scanned, app recognizes this is a barcode and fetches the json offered by the Barcode Lookup API service. Parses information into Item object and inserts object into user’s database.
+1. When code is scanned, app recognizes this is a barcode and fetches the json offered by the Barcode Lookup API service. Parses information into Item object and inserts object into user’s database. 
 2. Parsed for particular information from the json offered by API service to match the json files manually written by our team for the QR code items – due to simplicity and time constraints. 
